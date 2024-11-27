@@ -1,0 +1,11 @@
+.ecommerce-application .product-checkout.list-view{
+    grid-template-columns: 1fr
+}
+.color-box{
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.auth-wrapper.auth-basic .auth-inner {
+    max-width: 700px;
+}

@@ -1,0 +1,20 @@
+.ecommerce-application .product-checkout.list-view{
+    grid-template-columns: 1fr
+}
+.color-box{
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.text-small{
+ font-size: 12px;
+}
+
+.campaign-wizard{
+    .react-select{
+        z-index: 2;
+    }
+    .custom-file{
+        z-index: 1;
+    }
+}
